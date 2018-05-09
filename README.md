@@ -7,4 +7,4 @@ Greetins for: https://github.com/michalsnik that created all JS project.
 
 ----
 
-And was used Bootstrap ;)
+And I included Bootstrap ;)
